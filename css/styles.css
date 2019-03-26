@@ -1,0 +1,41 @@
+.definition {
+  display: none;
+  font-weight: bold;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
+
+.term {
+  font-weight: bold;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
+
+.flashcard {
+  height: 100%;
+  width: 100%;
+  padding:5%;
+  text-align: center;
+  background-color: lightgray;
+}
+.flashContent{
+  height:100%;
+  width:100%;
+  background-color: white;
+}
+
+.row {
+  height: 20%;
+  width: 100%;
+}
+.col{
+  margin:0%;
+  padding:0%
+}
+.container{
+  height: 100vh;
+}
